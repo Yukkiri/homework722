@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Homework722</string>
+    <string name="call">Звоним</string>
+    <string name="text">Отправляем</string>
+    <string name="phone">Введите номер</string>
+    <string name="message">Введите сообщение</string>
+</resources>
